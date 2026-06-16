@@ -1,0 +1,12 @@
+{
+  "name": "colormedia",
+  "displayName": "ColorMedia Production Skills",
+  "version": "1.3.0",
+  "description": "Bộ skill sản xuất phim của ColorMedia / MMCorp cho Claude Code. Skill đầu tiên: treatment — Kiến trúc hồ sơ Treatment đạo diễn (v1.3, generate-first).",
+  "author": {
+    "name": "Hoang Dung",
+    "email": "hoangdung.colormedia@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["treatment", "storyboard", "director", "colormedia", "mmcorp", "film-production"]
+}
