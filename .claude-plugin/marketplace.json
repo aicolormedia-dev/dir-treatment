@@ -1,25 +1,25 @@
 {
-  "name": "colormedia-skills",
+  "name": "director-treatment-skills",
   "owner": {
     "name": "Hoang Dung — ColorMedia / MMCorp",
     "email": "hoangdung.colormedia@gmail.com"
   },
-  "description": "Marketplace skill nội bộ ColorMedia / MMCorp cho Claude Code — sản xuất phim, treatment, QC, content.",
+  "description": "Marketplace skill đạo diễn của ColorMedia / MMCorp cho Claude Code — treatment, storyboard, sản xuất phim.",
   "version": "1.0.0",
   "metadata": {
     "pluginRoot": "./plugins"
   },
   "plugins": [
     {
-      "name": "colormedia",
-      "source": "./plugins/colormedia",
-      "description": "Bộ skill sản xuất của ColorMedia. Hiện gồm: treatment (Kiến trúc hồ sơ Treatment đạo diễn v1.3 — generate-first).",
+      "name": "director-treatment",
+      "source": "./plugins/director-treatment",
+      "description": "Skill đạo diễn ColorMedia. Hiện gồm: treatment (Kiến trúc hồ sơ Treatment đạo diễn v1.3 — generate-first).",
       "version": "1.3.0",
       "author": {
         "name": "Hoang Dung",
         "email": "hoangdung.colormedia@gmail.com"
       },
-      "keywords": ["treatment", "storyboard", "colormedia", "film-production", "director"],
+      "keywords": ["treatment", "storyboard", "director", "colormedia", "film-production"],
       "category": "productivity"
     }
   ]

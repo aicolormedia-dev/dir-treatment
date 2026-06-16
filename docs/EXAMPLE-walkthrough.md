@@ -14,7 +14,8 @@ Bạn vừa chốt kịch bản một **TVC 30 giây** cho thương hiệu **Bia
 ## Bước 1 — Gọi skill
 
 ```
-Bạn: Tạo treatment cho TVC này [đính kèm kịch bản đã chốt]
+Bạn: /director-treatment:treatment
+     (hoặc) Tạo treatment cho TVC này [đính kèm kịch bản đã chốt]
 ```
 
 ## Bước 2 — Agent hỏi khởi tạo, bạn trả lời

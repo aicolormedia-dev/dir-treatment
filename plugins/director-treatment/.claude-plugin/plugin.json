@@ -1,0 +1,12 @@
+{
+  "name": "director-treatment",
+  "displayName": "Director Treatment — ColorMedia",
+  "version": "1.3.0",
+  "description": "Skill đạo diễn của ColorMedia / MMCorp cho Claude Code. Skill chính: treatment — Kiến trúc hồ sơ Treatment đạo diễn (v1.3, generate-first).",
+  "author": {
+    "name": "Hoang Dung",
+    "email": "hoangdung.colormedia@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["treatment", "storyboard", "director", "colormedia", "mmcorp", "film-production"]
+}

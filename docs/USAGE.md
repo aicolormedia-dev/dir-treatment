@@ -15,7 +15,7 @@
 ## 2. Gọi skill
 
 Một trong hai cách:
-- Gõ lệnh: `/colormedia:treatment`
+- Gõ lệnh: `/director-treatment:treatment`
 - Hoặc nói tự nhiên: *"Tạo treatment cho dự án này"* + đính kèm kịch bản → Claude tự nhận diện và gọi.
 
 ## 3. Agent sẽ hỏi (Initialization)

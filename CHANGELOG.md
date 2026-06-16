@@ -1,6 +1,6 @@
 # Changelog
 
-Mọi thay đổi đáng chú ý của marketplace `colormedia-skills`.
+Mọi thay đổi đáng chú ý của marketplace `director-treatment-skills`.
 
 ## [1.3.0] — 2026-06-16
 
@@ -14,7 +14,7 @@ Mọi thay đổi đáng chú ý của marketplace `colormedia-skills`.
 - **Giữ nguyên:** Nguyên lý 3 Điểm Chạm và toàn bộ luật chống-bịa. Thiếu công cụ → fallback minh bạch về placeholder + prompt ẩn (cơ chế v1.2).
 
 ### Hạ tầng phân phối
-- Đóng gói skill thành plugin `colormedia` trong marketplace `colormedia-skills`.
+- Đóng gói skill thành plugin `director-treatment` trong marketplace `director-treatment-skills`.
 - Thêm bộ docs: README, USAGE, PROMPT-LIBRARY, EXAMPLE-walkthrough, sơ đồ pipeline.
 
 ---
